@@ -1,0 +1,2 @@
+Teste de envio do remoto para o local.
+git pull
